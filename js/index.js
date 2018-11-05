@@ -1,7 +1,7 @@
 // Inspired by https://codepen.io/anon/pen/OVZpqO?editors=1100
 
 let item = {
-    items: ['test1', 'test2'],
+    items: ['item1', 'item2'],
     init: function() {
         this.cacheDom();
         this.bindEvents();
